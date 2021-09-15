@@ -12,6 +12,10 @@ B cells work chiefly by secreting soluble substances called antibodies into the 
 
 &nbsp;
 
+<img src="images/1.jpg" title=""/>
+
+&nbsp;
+
 
 Although small lymphocytes look identical, even under the microscope, they can be distinguished  by means of distinctive molecules they carry on their cell surface. These markers not only help to distinguish between B cells and T cells, but also among  various subsets of cells that behave differently. Every mature T cell  carries a marker known as T3 (CD3), in addition, most helper T cells carry a T4 (CD4) marker, a molecule that recognizes class II MHC antigens. Another molecule known as CD8 recognizes Class I MHC antigens which are found on many suppressor/cytotoxic T cells. In addition, different T cells have different kinds of antigen receptors-either alpha/beta or gamma/delta.
 
@@ -38,8 +42,16 @@ The removal of lymphoid organs for further culture, isolation of cell population
 
 &nbsp;
 
+<img src="images/2.jpg" title=""/>
+
+&nbsp;
+
 The spleen is an organ of predominantly lympho-erythropoietic function. The parenchyma of this organ contains: a) a tissue with erythropoietic function called red pulp, constituted by vessels and cords of various types of red cells (haemocytoblasts, erythrocytes, leukocytes, megakaryocytes); b) a lymphoid tissue called white pulp. The spleen is situated in the left superior abdominal quadrant; it has a lengthened, oval, slightly curved shape. The ventral face is smooth and convex; the dorsal one is slightly concave, oriented towards the stomach, to which it is connected by means of the gastrosplenic ligament. Moreover, the hilum, through which the splenic vessels enter the organ, lies on the dorsal face of the spleen. In a young-adult mouse the spleen measures approximately 15 millimetres in length, 3 millimetres in width and  2 millimetres in thickness. Its average weight is approximately of 100 mg. Under normal conditions, the spleen has a friable and soft consistency, a smooth surface covered by a thin and transparent capsule, and a dark-red colour.
 
+
+&nbsp;
+
+<img src="images/3.jpg" title=""/>
 
 &nbsp;
 
