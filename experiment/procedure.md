@@ -1,7 +1,5 @@
 #### Materials Required
 
-&nbsp;
-
 1. DMEM Medium
 2. Carbondioxide Chamber
 3. 70% Isopropyl Alcohol
@@ -46,9 +44,6 @@ Store at 4oC, Dilute to 50 μM (final) for use in media.
 
 ### Procedure
  
-
-&nbsp;
-
 
 #### Euthanasia of Mouse: Carbon Dioxide Asphyxiation
  
