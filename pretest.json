@@ -1,0 +1,49 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.A standard procedure performed before the use of a certain batch of FBS",
+      "answers": {
+        "a": "Steam sterilization",
+        "b": "Heat treatment",
+        "c": "Dilute with 70% ethanol",
+        "d": "Steam distillation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.The CD marker carried by all mature T lymphocytes",
+      "answers": {
+        "a": "CD4",
+        "b": "CD8",
+        "c": "CD56",
+        "d": "CD3"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.The spleen acts as a fliter inorder to clear non-self antigens in the _____",
+      "answers": {
+        "a": "GI tract",
+        "b": "Nasopharyngial region",
+        "c": "Blood",
+        "d": "Central Nervous System"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.Which organ show variation in dimension in relation to the age of the animal?",
+      "answers": {
+        "a": "Blood",
+        "b": "Liver",
+        "c": "Tonsils",
+        "d": "Thymus"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
