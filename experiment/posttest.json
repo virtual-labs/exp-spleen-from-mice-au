@@ -2,37 +2,47 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.The wing of immune system that mainly involves the secretion of antibodies into the body fluids?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Innate immunity",
+        "b": "Cellular immunity",
+        "c": "Humoral immunity",
+        "d": "Secretory immunity"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.The CD marker carried by all mature T lymphocytes",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "CD4",
+        "b": "CD8",
+        "c": "CD56",
+        "d": "CD3"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.The spleen acts as a fliter inorder to clear non-self antigens in the _____",
+      "answers": {
+        "a": "GI tract",
+        "b": "Nasopharyngial region",
+        "c": "Blood",
+        "d": "Central Nervous System"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.Which organ show variation in dimension in relation to the age of the animal?",
+      "answers": {
+        "a": "Blood",
+        "b": "Liver",
+        "c": "Tonsils",
+        "d": "Thymus"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
